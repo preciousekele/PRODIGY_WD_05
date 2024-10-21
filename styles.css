@@ -5,7 +5,6 @@ body{
     height: 100vh;
     margin: 0;
     font-family: "Open Sans", sans-serif;
-    background: #222;
     background-image: url(bg.jpg);
     font-size: 120%;
 }
